@@ -1,0 +1,11 @@
+C:\Git\Notepad\WinFormNotepad\WinFormNotepad\bin\Debug\WinFormNotepad.exe.config
+C:\Git\Notepad\WinFormNotepad\WinFormNotepad\bin\Debug\WinFormNotepad.exe
+C:\Git\Notepad\WinFormNotepad\WinFormNotepad\bin\Debug\WinFormNotepad.pdb
+C:\Git\Notepad\WinFormNotepad\WinFormNotepad\obj\Debug\WinFormNotepad.csproj.AssemblyReference.cache
+C:\Git\Notepad\WinFormNotepad\WinFormNotepad\obj\Debug\WinFormNotepad.csproj.SuggestedBindingRedirects.cache
+C:\Git\Notepad\WinFormNotepad\WinFormNotepad\obj\Debug\WinFormNotepad.MainNotepadForm.resources
+C:\Git\Notepad\WinFormNotepad\WinFormNotepad\obj\Debug\WinFormNotepad.Properties.Resources.resources
+C:\Git\Notepad\WinFormNotepad\WinFormNotepad\obj\Debug\WinFormNotepad.csproj.GenerateResource.cache
+C:\Git\Notepad\WinFormNotepad\WinFormNotepad\obj\Debug\WinFormNotepad.csproj.CoreCompileInputs.cache
+C:\Git\Notepad\WinFormNotepad\WinFormNotepad\obj\Debug\WinFormNotepad.exe
+C:\Git\Notepad\WinFormNotepad\WinFormNotepad\obj\Debug\WinFormNotepad.pdb
