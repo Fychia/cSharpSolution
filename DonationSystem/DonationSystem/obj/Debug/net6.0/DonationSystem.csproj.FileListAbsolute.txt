@@ -1,0 +1,15 @@
+E:\WorkSpace\CSharp\FIAP\DonationSystem\DonationSystem\bin\Debug\net6.0\DonationSystem.exe
+E:\WorkSpace\CSharp\FIAP\DonationSystem\DonationSystem\bin\Debug\net6.0\DonationSystem.deps.json
+E:\WorkSpace\CSharp\FIAP\DonationSystem\DonationSystem\bin\Debug\net6.0\DonationSystem.runtimeconfig.json
+E:\WorkSpace\CSharp\FIAP\DonationSystem\DonationSystem\bin\Debug\net6.0\DonationSystem.dll
+E:\WorkSpace\CSharp\FIAP\DonationSystem\DonationSystem\bin\Debug\net6.0\DonationSystem.pdb
+E:\WorkSpace\CSharp\FIAP\DonationSystem\DonationSystem\obj\Debug\net6.0\DonationSystem.csproj.AssemblyReference.cache
+E:\WorkSpace\CSharp\FIAP\DonationSystem\DonationSystem\obj\Debug\net6.0\DonationSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\CSharp\FIAP\DonationSystem\DonationSystem\obj\Debug\net6.0\DonationSystem.AssemblyInfoInputs.cache
+E:\WorkSpace\CSharp\FIAP\DonationSystem\DonationSystem\obj\Debug\net6.0\DonationSystem.AssemblyInfo.cs
+E:\WorkSpace\CSharp\FIAP\DonationSystem\DonationSystem\obj\Debug\net6.0\DonationSystem.csproj.CoreCompileInputs.cache
+E:\WorkSpace\CSharp\FIAP\DonationSystem\DonationSystem\obj\Debug\net6.0\DonationSystem.dll
+E:\WorkSpace\CSharp\FIAP\DonationSystem\DonationSystem\obj\Debug\net6.0\refint\DonationSystem.dll
+E:\WorkSpace\CSharp\FIAP\DonationSystem\DonationSystem\obj\Debug\net6.0\DonationSystem.pdb
+E:\WorkSpace\CSharp\FIAP\DonationSystem\DonationSystem\obj\Debug\net6.0\DonationSystem.genruntimeconfig.cache
+E:\WorkSpace\CSharp\FIAP\DonationSystem\DonationSystem\obj\Debug\net6.0\ref\DonationSystem.dll
