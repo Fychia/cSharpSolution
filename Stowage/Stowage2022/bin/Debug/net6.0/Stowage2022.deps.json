@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Stowage2022/1.0.0": {
+        "dependencies": {
+          "Stowage": "1.2.6"
+        },
+        "runtime": {
+          "Stowage2022.dll": {}
+        }
+      },
+      "Stowage/1.2.6": {
+        "runtime": {
+          "lib/net6.0/Stowage.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.2.6.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Stowage2022/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Stowage/1.2.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TZqf6kZBKyHVCEcLudHMvR2To46OVGgOFQ20WaeSj6vgvhbYeDWHgCodUeFaIuXm+6xRBM67LpklELM1gJC8PQ==",
+      "path": "stowage/1.2.6",
+      "hashPath": "stowage.1.2.6.nupkg.sha512"
+    }
+  }
+}
