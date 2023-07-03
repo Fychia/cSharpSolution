@@ -1,0 +1,15 @@
+E:\WorkSpace\CSharp\FIAP\MétodosFunções\MétodosFunções\obj\Debug\net6.0\MétodosFunções.csproj.AssemblyReference.cache
+E:\WorkSpace\CSharp\FIAP\MétodosFunções\MétodosFunções\obj\Debug\net6.0\MétodosFunções.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\CSharp\FIAP\MétodosFunções\MétodosFunções\obj\Debug\net6.0\MétodosFunções.AssemblyInfoInputs.cache
+E:\WorkSpace\CSharp\FIAP\MétodosFunções\MétodosFunções\obj\Debug\net6.0\MétodosFunções.AssemblyInfo.cs
+E:\WorkSpace\CSharp\FIAP\MétodosFunções\MétodosFunções\obj\Debug\net6.0\MétodosFunções.csproj.CoreCompileInputs.cache
+E:\WorkSpace\CSharp\FIAP\MétodosFunções\MétodosFunções\bin\Debug\net6.0\MétodosFunções.exe
+E:\WorkSpace\CSharp\FIAP\MétodosFunções\MétodosFunções\bin\Debug\net6.0\MétodosFunções.deps.json
+E:\WorkSpace\CSharp\FIAP\MétodosFunções\MétodosFunções\bin\Debug\net6.0\MétodosFunções.runtimeconfig.json
+E:\WorkSpace\CSharp\FIAP\MétodosFunções\MétodosFunções\bin\Debug\net6.0\MétodosFunções.dll
+E:\WorkSpace\CSharp\FIAP\MétodosFunções\MétodosFunções\bin\Debug\net6.0\MétodosFunções.pdb
+E:\WorkSpace\CSharp\FIAP\MétodosFunções\MétodosFunções\obj\Debug\net6.0\MétodosFunções.dll
+E:\WorkSpace\CSharp\FIAP\MétodosFunções\MétodosFunções\obj\Debug\net6.0\refint\MétodosFunções.dll
+E:\WorkSpace\CSharp\FIAP\MétodosFunções\MétodosFunções\obj\Debug\net6.0\MétodosFunções.pdb
+E:\WorkSpace\CSharp\FIAP\MétodosFunções\MétodosFunções\obj\Debug\net6.0\MétodosFunções.genruntimeconfig.cache
+E:\WorkSpace\CSharp\FIAP\MétodosFunções\MétodosFunções\obj\Debug\net6.0\ref\MétodosFunções.dll
